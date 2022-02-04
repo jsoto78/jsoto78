@@ -3,9 +3,9 @@
 
 - 👨‍💻 Mis proyectos estan en [https://m22apps.com](https://m22apps.com)
 
-- 📫 Me podes contactar por email **jsoto@m22apps.com**
+- 📫 Me podes contactar por email **jsoto@lossoto.com.ar**
 
-- 📄 Cosas sobre mi experiencia laboral [https://m22apps.com/micv.pdf](https://m22apps.com/micv.pdf)
+- 📄 Cosas sobre mi experiencia laboral [https://m22apps.com/micv.pdf](https://m22apps.com/CV2.pdf)
 
 <h3 align="left">Contactame :</h3>
 <p align="left">
