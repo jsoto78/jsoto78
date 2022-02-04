@@ -5,7 +5,7 @@
 
 - 📫 Me podes contactar por email **jsoto@lossoto.com.ar**
 
-- 📄 Cosas sobre mi experiencia laboral [https://m22apps.com/micv.pdf](https://m22apps.com/CV2.pdf)
+- 📄 Cosas sobre mi experiencia laboral [ver](https://m22apps.com/CV2.pdf)
 
 <h3 align="left">Contactame :</h3>
 <p align="left">
