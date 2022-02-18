@@ -1,8 +1,7 @@
 <h1 align="center">Hola 👋, soy Jose Soto</h1>
 <h3 align="center">Soy desarrollador FullStack PHP</h3>
 
-- 👨‍💻 Mis proyectos estan en [https://m22apps.com](https://m22apps.com)
-
+- 👨‍💻 Mis proyectos estan en GitHub
 - 📫 Me podes contactar por email **jsoto@lossoto.com.ar**
 
 - 📄 Cosas sobre mi experiencia laboral [ver](https://m22apps.com/CV2.pdf)
